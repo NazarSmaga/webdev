@@ -1,0 +1,14 @@
+body{
+    background-color: #1F1F1F;
+}
+ol{
+    position: absolute;
+    top: 190px;
+}
+li{
+    display: inline;
+    margin-right: 20px;
+}
+.headerImage{
+    opacity: 30%;
+}
